@@ -14,7 +14,14 @@
   
   <properties>
 	<!-- versions -->
-	<sonar.host.url>http://localhost:9000/</sonar.host.url>
+	<sonar.host.url>http://13.235.133.81:9000/</sonar.host.url>
+	  <!--
+                <sonar.login>admin</sonar.login>
+		<sonar.password>passpass</sonar.password>  
+         -->
+	
+<sonar.login>73d50a422762f4cdd108a4eb1a01179147ae90ab</sonar.login>
+	  
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
