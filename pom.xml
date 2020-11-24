@@ -14,7 +14,7 @@
   
   <properties>
 	<!-- versions -->
-	<sonar.host.url>http://15.206.157.206:9000/</sonar.host.url>
+	<sonar.host.url>http://65.0.26.202:9000/</sonar.host.url>
 	  <!--
                 <sonar.login>admin</sonar.login>
 		<sonar.password>passpass</sonar.password>  
